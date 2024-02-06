@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+}
+
+#height,#weight{
+    height: 25px;
+    width:150px ;
+    margin-top: 20px;
+}
+button{
+    margin-left: 70px;
+    margin-top: 20px;
+}
